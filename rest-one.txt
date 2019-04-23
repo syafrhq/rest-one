@@ -1,0 +1,5 @@
+-- Dokumentasi 100 hari belajar koding ---
+- basic frontend 
+- basic backend
+- databases
+ -desaint
