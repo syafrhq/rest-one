@@ -2,4 +2,7 @@
 - basic frontend 
 - basic backend
 - databases
- -desaint
+-desaint
+- UI/UX desgn 
+- Linux OS 
+
