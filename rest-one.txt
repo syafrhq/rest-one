@@ -2,7 +2,5 @@
 - basic frontend 
 - basic backend
 - databases
+- belajar sendiri
 -desaint
-- UI/UX desgn 
-- Linux OS 
-
